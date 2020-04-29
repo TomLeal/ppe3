@@ -35,7 +35,3 @@ Avec Netbeans.
 
 *identifiant :* admin
 *mot de passe :* 123456
-
-### Document
-
-[informations en plus](https://docs.google.com/document/d/1lFKgnpGmczJt6LzzyOKSjIem5Fe6dFDTqoVRi02L8G8/edit?usp=sharing)
